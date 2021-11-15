@@ -1,5 +1,5 @@
 {
-  "name": "FirstApp",
+  "name": "mobile-app",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -8,7 +8,7 @@
     "start": "react-native start",
     "test": "jest",
     "lint": "eslint .",
-    "emulator": "C:/Users/ITAPPS14/AppData/Local/Android/Sdk/emulator/emulator -avd Pixel_XL_API_24"
+    "emulator": "C:/Users/ITAPPS14/AppData/Local/Android/Sdk/emulator/emulator -avd"
   },
   "dependencies": {
     "react": "17.0.2",
